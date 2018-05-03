@@ -14,3 +14,7 @@ gem 'sinatra', '2.0.0'
 gem 'sequel', '4.48.0'
 gem 'sqlite3', '1.3.13'
 
+group :test do
+  gem "nyan-cat-formatter"
+end
+
