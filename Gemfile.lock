@@ -7,7 +7,7 @@ GEM
       ruby2_keywords (~> 0.0.1)
     nyan-cat-formatter (0.12.0)
       rspec (>= 2.99, >= 2.14.2, < 4)
-    rack (2.2.3)
+    rack (2.2.6.4)
     rack-protection (2.2.0)
       rack
     rack-test (0.7.0)
